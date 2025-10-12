@@ -1,8 +1,5 @@
 # n8n-sandbox
 
-oluşturdum.
-bu bir testttir unutma.
-Yeni tessssssst
+COMMIT_TAG: TSK-20251012-8C41-1-Update-README.md
 
-
-yeyp yenii testttt
+tertemiz
